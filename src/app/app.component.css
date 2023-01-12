@@ -1,0 +1,11 @@
+#title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    text-shadow: rgb(203, 145, 145) 1px 0 5px;
+}
+#navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
